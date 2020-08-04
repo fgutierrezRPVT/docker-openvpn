@@ -1,7 +1,7 @@
 # Original credit: https://github.com/jpetazzo/dockvpn
 
 # Smallest base image
-FROM alpine:latest
+FROM ferencreprivata2020/alpine-fips:latest
 
 LABEL maintainer="Kyle Manna <kyle@kylemanna.com>"
 
